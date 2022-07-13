@@ -6,6 +6,6 @@ From the SBE team, we want all players to feel safe when playing Skyblock. This 
 
 SBDC (Skyblock dupe checker) Works in the background whenever you are on the ah.
 If you try to buy a duped item it will stop you, then it will have a button to temporarily disable that feature if you still want to buy it.
-To check items you own you have to hold them in your hand and type /dcheck if nothing happens congrats your item is real. If not you will get a chat message.
+To check items you own you have to hold them in your hand and type /dcheck if its real it will put "NOT DUPED" at the bottem of the item. If not you will get a chat message.
 
 Stay safe and remember this is new and may have bugs.
